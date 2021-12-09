@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/selvin-irahetagutierrez/ATMProject/issues"
   },
-  "homepage": "https://github.com/selvin-irahetagutierrez/ATMProject#readme"
+  "homepage": "https://github.com/selvin-irahetagutierrez/ATMProject#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
