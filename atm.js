@@ -1,5 +1,5 @@
 let {balance,pin}= require("./account")
-let {pocketBalance}=require("/.wallet")
+let {pocketBalance}=require("./wallet")
 
 const prompt = require ("prompt-sync")();
 

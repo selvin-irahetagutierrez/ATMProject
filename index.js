@@ -26,11 +26,11 @@ function usermenu (){
             deposit();
             break;
             case "4":
-            proceed="quit"
+                proceed="quit"
             break;
             default:
                 console.log('Not sure what that is. Lets retry')
         }
     }
 }
-console.log("thank you for using my ATM!");
+console.log('Thanks for using my ATM')
